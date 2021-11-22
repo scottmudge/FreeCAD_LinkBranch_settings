@@ -1,0 +1,1 @@
+cmake .. -G "Visual Studio 17 2022" -DFREECAD_LIBPACK_DIR="C:\Development\3D\FreeCADLibs" -DBUILD_TEST=OFF -DRenderer_BUILD_STATIC_LIBRARY=ON -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX="C:\Program Files\FreeCAD"
